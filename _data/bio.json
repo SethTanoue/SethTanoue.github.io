@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Seth Tanoue",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://SethTanoue.github.io/images/WIN_20200825_12_11_53_Pro (2).jpg",
+    "email": "Seth3@hawaii.edu",
+    "phone": "",
+    "website": "https://SethTanoue.github.io",
+    "summary": "I am studying towards a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in near future(2022).",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,32 +17,20 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "SethTanoue",
+        "url": "http://github.com/SethTanoue"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Seth Tanoue",
+        "url": "www.linkedin.com/in/seth-tanoue"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cyber Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -65,99 +53,108 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
-        "Git/GitHub",
+        "Unix",
         "g++",
-        "TI LaunchPad"
+        "Vi/Vim"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii an Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "B.A.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Honolulu Comunity College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2014-08-01",
+      "endDate": "2016-05-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kamehameha Schools Kapalama, Honolulu, HI",
+      "area": "High School",
+      "studyType": "High School",
+      "startDate": "2007",
+      "endDate": "2010",
+      "gpa": "3.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Sera's Surf n Shore",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2012-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Retail Salesperson",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Greeting customers and respond to questions.",
+        "Maintain, organize, and clean Sales floor.",
+        "Directing customers to merchandise, recommending and suggesting products.",
+        "Deliver excellent customer service"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Nevada Reno",
+      "position": "Student Ambassador",
+      "website": "http://www.unr.edu/first-year",
+      "startDate": "2010-11-01",
+      "endDate": "2012-05-01",
+      "summary": "Campus tour guide and prospective student recrutor",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Encourage prospective students to join the UNR, through campus tours or college fares.",
+        "Provide admission and campus information to prospective students, family and new students.",
+        "Represent UNR both on and off campus providing excellent customer service."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Circle K International",
+      "website": "https://unr.givepulse.com/group/114901-The-Circle-K-International-Club-of-University-of-Nevada-Reno",
+      "position": "Volunteer",
+      "startDate": "2010-11-01",
+      "endDate": "2012-05-01",
+      "summary": "CKI is a branch of the Kiwanis Family",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Volunteer highway and park clean up.",
+        "Volunteer at the Navada Special Olympcs in Bowling."
       ]
     }
   ],
-  "awards": [
+  "degrees": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Associate of Arts-Liberal Arts",
+      "date": "2016",
+      "School": "Honolulu Comunity College",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "High School Diploma",
+      "date": "2010",
+      "School": "Kamehameha Schools",
+      "summary": ""
     }
   ],
   "references": [

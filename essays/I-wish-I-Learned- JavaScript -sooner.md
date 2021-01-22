@@ -7,7 +7,7 @@ published: true
 date: 2021-01-21
 labels:
   - JavaScript
-  - software engineering
+  - Learning
 ---
 I wished I learned about JavaScript when I first started coding. I know that JavaScript, like all programming languages, has its caveats, but after using JavaScript, I only have one problem. Many years ago, early in my college career, I had the unfortunate speed bump of learning C++. It was for an Engineering course I was taking at the time, and this class was the first programming class I have ever taken. It was a 101 class, and after countless hours of frustration, I barely passed the course. As a result, it left me scared. I had tried to avoid as much programming that I could. 
 Years later, a counselor suggested taking a Python class I needed another Computer Science credit and told me it is easier than C++. I request, and she was right; Python was easier. However, while learning Python, I noticed that Python was more manageable due to its relaxed syntax. Looking back now, I can only remember a strict adherence to coding guidelines from that C++ class. The forgiveness of Python or JavaScript, for that matter, makes coding a lot more enjoyable. JavaScript has fantastic and easy-to-use functions, variables, objects, and my favorite, typecasting. The ease of access is nothing st scoff at because all you need is a browser. If my professor showed me JavaScript earlier, I probably would have gotten into coding a lot sooner.

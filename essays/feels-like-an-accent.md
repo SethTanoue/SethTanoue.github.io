@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding accent
+title: Coding Standard is Like an Accent
 published: true
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11

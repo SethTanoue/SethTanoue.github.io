@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I wish I Learned JavaScript sooner
+title: Stupid How Easy it is
 published: true
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-25

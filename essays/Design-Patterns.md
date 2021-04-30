@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How do I Feel about Design Patterns? It is There(Meh!).
+title: Still Confused About Design Patterns
 published: true
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29

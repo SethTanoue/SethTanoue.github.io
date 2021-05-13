@@ -2,7 +2,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/Rate-My-Classes-Manoa
 # All dates must be YYYY-MM-DD format!
 date: 2021-5-12
 labels:

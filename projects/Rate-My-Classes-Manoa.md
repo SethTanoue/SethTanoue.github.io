@@ -1,7 +1,8 @@
 layout: project
 type: project
+published: true
 image: images/vacay-square.png
-title: Vacay
+title: Rate-My-Classes-Manoa
 permalink: projects/Rate-My-Classes-Manoa
 # All dates must be YYYY-MM-DD format!
 date: 2021-5-12
